@@ -1,5 +1,5 @@
 # TIC-TAC-TOE Game ⭕❌🎮
-TIC-TAC-TOE {C++}
+TIC-TAC-TOE {JAVA}
 
 # Rules of Tic-Tac-Toe
 
