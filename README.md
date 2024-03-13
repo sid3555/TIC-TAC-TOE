@@ -1,4 +1,4 @@
-# TIC-TAC-TOE
+# TIC-TAC-TOE Game
 TIC-TAC-TOE {C++}
 
 # Rules of Tic-Tac-Toe
